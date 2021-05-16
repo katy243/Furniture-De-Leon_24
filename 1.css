@@ -1,0 +1,5 @@
+/* fondo de la pagina*/
+body{
+	margin:50px;
+	background: url("imagenes/1.jpg");
+}
